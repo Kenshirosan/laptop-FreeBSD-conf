@@ -1,0 +1,117 @@
+ - Created new single-instance lock
+Number of XCB screens: 2
+Loading Locale: "lumina-desktop" "en_US" "UTF-8"
+QKqueueFileSystemWatcherEngine::addPaths: open: No such file or directory
+qt.qpa.xcb: QXcbConnection: XCB error: 148 (Unknown), sequence: 198, resource id: 0, major code: 140 (Unknown), minor code: 20
+Initializing Session
+Starting System Tray: 0
+System Tray Started Successfully
+ - Initialize system menus
+qt.qpa.xcb: QXcbConnection: XCB error: 1 (BadRequest), sequence: 627, resource id: 14680078, major code: 142 (Unknown), minor code: 1
+Auto App List Update: QDateTime(2020-04-06 12:28:18.892 CEST Qt::LocalTime) Files Found: 58
+QFileSystemWatcher::removePaths: list is empty
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+ - Update Desktops
+  Screen Count: 2
+  DESKTOPS Length: 0
+" -- Screen[0]:" QRect(0,0 1920x1080)
+" -- Screen[1]:" QRect(0,0 1920x1080)
+ - Start desktop on screen: 0
+Init Desktop: 0
+Desktop # 0  ->  QRect(0,0 1920x1080) QRect(0,0 1920x1080)
+Create bgDesktop
+ - Desktop Init Done: "eDP-1"
+Found Settings Change: "eDP-1"
+ - Update Desktop Background for screen: 0
+ - Update Desktop Plugins for screen: "eDP-1"
+ - Update Panels For Screen: 0
+ -- Create panel  0
+ -- Create panel  1
+ - Update Menu: "eDP-1"
+Found workspace number: 0
+ - Update Desktop Plugins for screen: "eDP-1"
+ - Update Desktop Plugins for screen: "eDP-1"
+ - Update Desktop Plugins for screen: "eDP-1"
+ - Update Desktop Background for screen: 0
+Could not find icon: "lumina" ""
+ - Update Desktop Plugins for screen: "eDP-1"
+ - Update Panels For Screen: 0
+ -- Update panel  0
+ -- Update panel  1
+ - Update Menu: "eDP-1"
+Found workspace number: 0
+Resync Size: QSize(100, 30) QSize(270, 600)
+ - after menu resize: QSize(270, 600) QSize(270, 600)
+Updating clock format
+Verify Clock width: 1 84 ("12:28 PM")
+Verify Clock width: 1 84 ("12:28 PM")
+ - Update Desktop Background for screen: 0
+ - Update Desktop Background for screen: 0
+ - Update Desktop Background for screen: 0
+ - Update Desktop Background for screen: 0
+Verify Clock width: 1 84 ("12:28 PM")
+Verify Clock width: 1 84 ("12:28 PM")
+ - Update Desktop Background for screen: 0
+Launching startup applications
+ - - Screen Brightness: "100%"
+ - Loading previous settings
+ - - Audio Volume: "50%"
+ - Initialize media player
+error: XDG_RUNTIME_DIR not set in the environment.
+error: XDG_RUNTIME_DIR not set in the environment.
+Verify Clock width: 1 84 ("12:28 PM")
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+qt.svg: /usr/local/share/pixmaps/Alacritty.svg:443:51: Could not resolve property: #linearGradient10962
+Visual Tray Started: "systemtray---0.0.1" true
+ - Update Desktop Background for screen: 0
+ - Update Desktop Background for screen: 0
+Session Tray: Window Added
+ - Visual System Tray: Add Icon: 25165831
+ - Update Desktop Background for screen: 0
+ - Update Desktop Background for screen: 0
+ - Update Desktop Background for screen: 0
+ -- Check Window Geom: QRect(0,0 1920x1080) QRect(0,23 567x417) "Insight File Manager"
+ -- Found Screen: 0
+ - Update Desktop Background for screen: 0
+ - Update Desktop Background for screen: 0
+ -- Check Window Geom: QRect(0,0 1920x1080) QRect(21,44 550x400) "lumina-config"
+ -- Found Screen: 0
+Updating clock format
+Verify Clock width: 1 84 ("12:44 PM")
+Updating clock format
+Verify Clock width: 1 84 ("12:44 PM")
+ - Update Desktop Background for screen: 0
+ - Update Desktop Background for screen: 0
+ - Update Desktop Background for screen: 0
+ - Update Desktop Background for screen: 0
+pgrep: Cannot open pidfile `/tmp/.updateInProgress': No such file or directory
+Start closing down the session:  "4/6/20 1:04 PM"
+Updating clock format
+Verify Clock width: 1 73 ("1:04 PM")
+Stopping system tray...
+ - Stopping tray app: "hp-systray"
+ - Visual System Tray: Remove Icon: 25165831
+ - Closing down the desktop elements
+Stop visual system tray: "systemtray---0.0.1"
+Unregistered Visual Tray
+Done stopping visual tray
+shutdown: [pid 3214]
+Shutdown NOW!
+Shutdown NOW!
+
+System shutdown time has arrived
+Finished Closing Down Lumina

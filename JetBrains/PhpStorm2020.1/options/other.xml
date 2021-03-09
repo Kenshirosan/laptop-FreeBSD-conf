@@ -1,0 +1,23 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="MarketplacePluginsSearchHistory" value="choose&#10;choo&#10;ch" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="SettingsSearchHistory" value="choose runtime" />
+    <property name="evlsprt3.201" value="10" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Downloads/ColorIde-2.3.jar" />
+    <property name="file.gist.reindex.count" value="1898" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="lastSeenTip" value="neue-CtrlDotInLookups.html" />
+    <property name="lastTimeTipsWereShown" value="1596055718663" />
+    <property name="lastTip" value="7" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="seenTips" value="neue-CtrlDotInLookups.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.8.2" />
+  </component>
+</application>

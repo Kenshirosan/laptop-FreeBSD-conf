@@ -1,0 +1,39 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="24" last="1596060007887" />
+      </entry>
+      <entry key="SearchEverywhere">
+        <ActionSummary times="7" last="1596061142046" />
+      </entry>
+      <entry key="ToggleLineBreakpoint">
+        <ActionSummary times="1" last="1596060021934" />
+      </entry>
+      <entry key="WelcomeScreen.Plugins">
+        <ActionSummary times="1" last="1596058845172" />
+      </entry>
+      <entry key="WelcomeScreen.Settings">
+        <ActionSummary times="1" last="1596058815592" />
+      </entry>
+      <entry key="bootRuntime.main.ChooseBootRuntimeAction">
+        <ActionSummary times="4" last="1596061145195" />
+      </entry>
+      <entry key="com.intellij.ide.ReopenProjectAction">
+        <ActionSummary times="3" last="1596056321311" />
+      </entry>
+      <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+        <ActionSummary times="6" last="1596061145063" />
+      </entry>
+      <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showUpdateResult$4$1">
+        <ActionSummary times="1" last="1596057950890" />
+      </entry>
+      <entry key="com.intellij.ui.ScrollingUtil$6">
+        <ActionSummary times="1" last="1596058814145" />
+      </entry>
+      <entry key="com.jetbrains.php.composer.ComposerSettingSyncConfigClient$1">
+        <ActionSummary times="1" last="1596056248272" />
+      </entry>
+    </data>
+  </component>
+</application>

@@ -1,0 +1,190 @@
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.menuFile
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.menuSearch
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.menuFile
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.menuSearch
+Setting default value
+Keys: Invalid key/modifier on line 26): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 27): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 28): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 37): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 40): OnTitlebar Mouse1 :MacroCmd {Raise} {Focus} {ActivateTab}
+Keys: Invalid key/modifier on line 41): OnTitlebar Move1  :StartMoving
+Keys: Invalid key/modifier on line 44): OnTitlebar Mouse2 :Lower
+Keys: Invalid key/modifier on line 47): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 95): Control Mod1 Left  :PrevWorkspace
+Keys: Invalid key/modifier on line 96): Control Mod1 Right  :NextWorkspace
+Failed to read: session.screen0.windowMenu
+Setting default value
+Xlib:  extension "XINERAMA" missing on display "unix:0.0".
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.menuFile
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.menuSearch
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen1.opaqueMove
+Setting default value
+Failed to read: session.screen1.fullMaximization
+Setting default value
+Failed to read: session.screen1.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen1.maxDisableMove
+Setting default value
+Failed to read: session.screen1.maxDisableResize
+Setting default value
+Failed to read: session.screen1.workspacewarping
+Setting default value
+Failed to read: session.screen1.showwindowposition
+Setting default value
+Failed to read: session.screen1.autoRaise
+Setting default value
+Failed to read: session.screen1.clickRaises
+Setting default value
+Failed to read: session.screen1.defaultDeco
+Setting default value
+Failed to read: session.screen1.tab.placement
+Setting default value
+Failed to read: session.screen1.windowMenu
+Setting default value
+Failed to read: session.screen1.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen1.workspaces
+Setting default value
+Failed to read: session.screen1.edgeSnapThreshold
+Setting default value
+Failed to read: session.screen1.window.focus.alpha
+Setting default value
+Failed to read: session.screen1.window.unfocus.alpha
+Setting default value
+Failed to read: session.screen1.menu.alpha
+Setting default value
+Failed to read: session.screen1.menuDelay
+Setting default value
+Failed to read: session.screen1.tab.width
+Setting default value
+Failed to read: session.screen1.tooltipDelay
+Setting default value
+Failed to read: session.screen1.allowRemoteActions
+Setting default value
+Failed to read: session.screen1.clientMenu.usePixmap
+Setting default value
+Failed to read: session.screen1.tabs.usePixmap
+Setting default value
+Failed to read: session.screen1.tabs.maxOver
+Setting default value
+Failed to read: session.screen1.tabs.intitlebar
+Setting default value
+Failed to read: session.screen1.focusModel
+Setting default value
+Failed to read: session.screen1.tabFocusModel
+Setting default value
+Failed to read: session.screen1.focusNewWindows
+Setting default value
+Failed to read: session.screen1.focusSameHead
+Setting default value
+Failed to read: session.screen1.rowPlacementDirection
+Setting default value
+Failed to read: session.screen1.colPlacementDirection
+Setting default value
+Failed to read: session.screen1.windowPlacement
+Setting default value
+Xlib:  extension "XINERAMA" missing on display "unix:0.0".
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.menuFile
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.menuSearch
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen1.opaqueMove
+Setting default value
+Failed to read: session.screen1.fullMaximization
+Setting default value
+Failed to read: session.screen1.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen1.maxDisableMove
+Setting default value
+Failed to read: session.screen1.maxDisableResize
+Setting default value
+Failed to read: session.screen1.workspacewarping
+Setting default value
+Failed to read: session.screen1.showwindowposition
+Setting default value
+Failed to read: session.screen1.autoRaise
+Setting default value
+Failed to read: session.screen1.clickRaises
+Setting default value
+Failed to read: session.screen1.defaultDeco
+Setting default value
+Failed to read: session.screen1.tab.placement
+Setting default value
+Failed to read: session.screen1.windowMenu
+Setting default value
+Failed to read: session.screen1.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen1.workspaces
+Setting default value
+Failed to read: session.screen1.edgeSnapThreshold
+Setting default value
+Failed to read: session.screen1.window.focus.alpha
+Setting default value
+Failed to read: session.screen1.window.unfocus.alpha
+Setting default value
+Failed to read: session.screen1.menu.alpha
+Setting default value
+Failed to read: session.screen1.menuDelay
+Setting default value
+Failed to read: session.screen1.tab.width
+Setting default value
+Failed to read: session.screen1.tooltipDelay
+Setting default value
+Failed to read: session.screen1.allowRemoteActions
+Setting default value
+Failed to read: session.screen1.clientMenu.usePixmap
+Setting default value
+Failed to read: session.screen1.tabs.usePixmap
+Setting default value
+Failed to read: session.screen1.tabs.maxOver
+Setting default value
+Failed to read: session.screen1.tabs.intitlebar
+Setting default value
+Failed to read: session.screen1.focusModel
+Setting default value
+Failed to read: session.screen1.tabFocusModel
+Setting default value
+Failed to read: session.screen1.focusNewWindows
+Setting default value
+Failed to read: session.screen1.focusSameHead
+Setting default value
+Failed to read: session.screen1.rowPlacementDirection
+Setting default value
+Failed to read: session.screen1.colPlacementDirection
+Setting default value
+Failed to read: session.screen1.windowPlacement
+Setting default value

@@ -1,0 +1,65 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/scripts">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1aICJwmvii5StcDlY6yeIbAZHwR">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-193.6911.26" />
+              <option name="buildTimestamp" value="1584529871123" />
+              <frame x="28" y="8" width="1864" height="998" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1589267375823" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/public_html/laravel-shopping-cart-example">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1c50StsaYOZQSWQfjwIqbZxUctX">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-193.6911.26" />
+              <option name="buildTimestamp" value="1584529866950" />
+              <frame x="28" y="8" width="1864" height="998" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1589804485865" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/public_html/webcreation">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1fNPhtzMgmWODo5024jE5lx3dt9">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-201.7846.90" />
+              <option name="buildTimestamp" value="1591180816177" />
+              <frame x="28" y="8" width="1864" height="998" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1596056238828" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/public_html/nathan">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1bnUc53OnCSF8NizVyYPtMza30U">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-201.8743.18" />
+              <option name="buildTimestamp" value="1595410821790" />
+              <frame x="28" y="8" width="1864" height="998" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1596061104455" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/public_html" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/public_html/nathan" />
+        <option value="$USER_HOME$/public_html/webcreation" />
+        <option value="$USER_HOME$/public_html/laravel-shopping-cart-example" />
+        <option value="$USER_HOME$/scripts" />
+      </list>
+    </option>
+  </component>
+</application>

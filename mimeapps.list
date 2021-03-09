@@ -1,0 +1,7 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Firefox-G2DQI0.desktop
+x-scheme-handler/https=userapp-Firefox-G2DQI0.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Firefox-G2DQI0.desktop;
+x-scheme-handler/https=userapp-Firefox-G2DQI0.desktop;

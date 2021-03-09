@@ -1,0 +1,10 @@
+configuration {
+ modi: "run";
+ theme: "solarized";
+ padding: 500;
+ eh: 2;
+ font: "Fira Code 12";
+ combi-modi: "run";
+ }
+
+@import "/usr/local/share/rofi/themes/c64.rasi"

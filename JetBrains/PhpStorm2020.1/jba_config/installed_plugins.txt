@@ -1,0 +1,11 @@
+com.arcticicestudio.nord.jetbrains
+com.mallowigi
+com.vermouthx.idea
+de.espend.idea.php.annotation
+fr.adrienbrault.idea.symfony2plugin
+ColorIde
+com.jetbrains.ChooseRuntime
+com.github.shiraji.yaemoji
+com.dmarcotte.handlebars
+net.mamansoft.markowl
+ru.adelf.idea.dotenv
